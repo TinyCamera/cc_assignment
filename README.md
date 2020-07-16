@@ -1,4 +1,4 @@
-# [Niall Conroy Assignment for Convergence Concepts]
+# Niall Conroy Assignment for Convergence Concepts
 
 This repo contains my assignment for Convergence Concepts. In this README I'll explain some of the decisions I made while completing the assignment.
 
